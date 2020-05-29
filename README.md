@@ -1,4 +1,4 @@
-# pytorch
+# Pytorch
 
 Curated tutorials to understand why Pytorch is the Deep Learning Framework of the Future
 Pytorch is a open source machine learning library used primarily for applications such as computer vision and natural language processing.
